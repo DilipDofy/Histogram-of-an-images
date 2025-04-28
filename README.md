@@ -76,16 +76,6 @@ plt.title("Color Histogram")
 plt.xlabel("Pixel Intensity")
 plt.ylabel("Count")
 plt.show()
-
-
-
-
-
-
-
-
-
-
 ```
 ## Output:
 ### Input Grayscale Image and Color Image:
